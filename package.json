@@ -29,7 +29,7 @@
     "transform": {
       "\\.(ts|tsx)$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
     },
-    "setupTestFrameworkScriptFile": "./test/setup.ts",
+    "setupTestFrameworkScriptFile": "./config/test.setup.ts",
     "testRegex": "/*.spec.(ts|tsx|js)$"
   },
   "devDependencies": {
