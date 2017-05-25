@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+build/
+node_modules/
+typings/
+tmp/
+dist/
+logs
+*.log
